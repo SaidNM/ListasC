@@ -53,7 +53,9 @@ do{
 
 void menu(){
 	printf("\nMenu\n1.-Agregar elemento\n2.-Borrar elemento\n3.-Mostrar lista\n4.-Salir\n\nElige una opcion:");
+	printf("Hola mira cambio cosas");
 	}
+	
 void agregar(){
 struct agenda *nuevo;
 nuevo=(struct agenda*)malloc(sizeof(struct agenda));
