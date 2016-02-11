@@ -52,8 +52,7 @@ do{
 
 
 void menu(){
-	printf("Hola como estas \n");
-	printf("Este cambio es prueba en un test\n");
+	printf("Bienvenido a la tienda\n");
 	printf("\nMenu\n1.-Agregar elemento\n2.-Borrar elemento\n3.-Mostrar lista\n4.-Salir\n\nElige una opcion:");
 	
 	}
