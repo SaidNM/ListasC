@@ -37,10 +37,10 @@ do{
 	mostrar();
 	break;
 	case 4:
-	printf("\nfin");
+	printf("\nGracias por utilizar esta lista se feliz\n");
 	break;
 	default:
-	printf("\nOpcion Invalida");
+	printf("\nError\nOpcion Invalida\n");
 	break;
 	}
 	}while(op!=4);
@@ -53,7 +53,7 @@ do{
 
 void menu(){
 	printf("Bienvenido a la tienda\n");
-	printf("\nMenu\n1.-Agregar elemento\n2.-Borrar elemento\n3.-Mostrar lista\n4.-Salir\n\nElige una opcion:");
+	printf("\nMenu\n1.-Agregar elemento\n2.-Borrar elemento\n3.-Mostrar lista\n4.-Salir\n\nElige una opcion: ");
 	
 	}
 	
